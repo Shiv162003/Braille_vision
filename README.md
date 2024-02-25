@@ -1,7 +1,7 @@
 
 # Braille Vision: Revolutionizing Braille Learning
 
-Welcome to Braille Vision, a groundbreaking project aimed at transforming the way we approach Braille learning. Our mission is to empower individuals with visual impairments by leveraging cutting-edge image processing and deep learning techniques. With Braille Vision, learning Braille becomes not only accessible but also affordable and highly programmable.
+Our mission is to empower individuals with visual impairments by leveraging cutting-edge image processing and deep learning techniques. With Braille Vision, learning Braille becomes not only accessible but also affordable and highly programmable.
 
 ## What is Braille Vision?
 

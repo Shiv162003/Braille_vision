@@ -14,6 +14,9 @@ Braille Vision is a revolutionary project designed to assist individuals in the 
 
 Traditionally, learning Braille has been a complex and often expensive process, requiring specialized teachers and resources. With Braille Vision, we eliminate the need for a dedicated instructor, making Braille learning more accessible and cost-effective. By harnessing the power of technology, we're breaking down barriers and empowering individuals to learn Braille on their terms.
 
+
+
+
 ## Key Features of Braille Vision:
 
 - **Accuracy**: Our advanced algorithms ensure precise recognition of Braille characters, providing reliable feedback to learners.
@@ -27,3 +30,4 @@ Traditionally, learning Braille has been a complex and often expensive process, 
 Braille Vision utilizes a combination of image processing techniques and deep learning models to analyze tactile inputs. When a user places their fingers on a surface containing Braille characters, our application captures an image of the area and processes it in real-time. Through trained neural networks, Braille Vision accurately identifies the Braille characters and provides instant feedback to the user.
 
 
+https://github.com/Shiv162003/Braille_vision/assets/120489897/ee7c64d7-b726-4b2b-8c38-835933b7323c

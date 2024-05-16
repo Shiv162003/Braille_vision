@@ -1,5 +1,8 @@
 
 # Braille Vision: Revolutionizing Braille Learning
+# Workflow
+![image](https://github.com/Shiv162003/Braille_vision/assets/120489897/4b46d595-acd1-46f4-b0a3-1739b508ad05)
+
 
 Our mission is to empower individuals with visual impairments by leveraging cutting-edge image processing and deep learning techniques. With Braille Vision, learning Braille becomes not only accessible but also affordable and highly programmable.
 
